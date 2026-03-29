@@ -60,7 +60,7 @@ Establish the darkest, furthest elements of the painting. Work from back to fron
 1. Mix a dark, stormy gray using Payne’s Gray, a touch of Blue, and White.
 2. Using your large flat brush, apply this dark gray to the top half of the canvas using broad, sweeping, messy strokes to simulate turbulent clouds.
 3. Establish your horizon line just above the center. Paint the distant ocean with a slightly darker, cooler gray, using strict horizontal strokes. Leave the bottom bare.
-<img width="1408" height="736" alt="Generated Image March 29, 2026 - 3_02PM (1)" src="https://github.com/user-attachments/assets/a90a0340-e1df-4518-b3a3-3509c5ee88f0" />
+<img width="1408" height="736" alt="Generated Image March 29, 2026 - 6_36PM" src="https://github.com/user-attachments/assets/78b9cd81-1231-4c9a-8cc3-319feefdf333" />
 
 
 ### Step 3: Blocking in the Wet Beach and Figure Silhouette
